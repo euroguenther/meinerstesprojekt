@@ -7,6 +7,7 @@
 int main()
 {
 	printf("Hallo erste Aenderung\n");
+	printf("Hallo zweite Aenderung\n");
 	return 0;
 }
 
